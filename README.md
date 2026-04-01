@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá! Sou o Lucas Caldardo 👋
 
-<!--
-**lucascaldardo/lucascaldardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Backend | Entusiasta do Mercado Financeiro
 
-Here are some ideas to get you started:
+Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC, com forte foco na criação de APIs e arquitetura de software. Tenho um interesse enorme na intersecção entre tecnologia e o mercado financeiro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 **Atualmente trabalhando em:** Projetos práticos de backend, como construção de APIs usando **Spring Boot**, e participando de Hackathons focados em inovação.
+* 🌱 **Estudando no momento:** **Java, Spring Boot, Python, SQL**, além de me aprofundar em certificações financeiras (CPA-20 concluída 🚀).
+* 💼 **Buscando oportunidades** para atuar como Desenvolvedor e resolver problemas reais com código limpo.
+* ⚡ **Curiosidade:** Nas horas vagas, provavelmente estou acompanhando o mercado de investimentos ou tentando sobreviver construindo jangadas no Stranded Deep.
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg">
+  <img align="center" alt="Hibernate" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
+
+<br>
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascaldardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Lucas" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaldardo&layout=compact&theme=dracula" alt="Top Linguagens" />
+</p>
+
+<br>
+
+### 📫 Como me encontrar
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:SEU_EMAIL_AQUI@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
