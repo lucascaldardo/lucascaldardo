@@ -26,7 +26,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC, com forte f
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascaldardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Lucas" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascaldardo&show_icons=true&theme=dracula" alt="Estatísticas do Lucas" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaldardo&layout=compact&theme=dracula" alt="Top Linguagens" />
 </p>
 
@@ -34,5 +34,5 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC, com forte f
 
 ### 📫 Como me encontrar
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:SEU_EMAIL_AQUI@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-caldardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:lucascaldardo.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
