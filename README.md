@@ -1,13 +1,13 @@
 # Olá! Sou o Lucas Caldardo 👋
 
-### Desenvolvedor Backend | Entusiasta do Mercado Financeiro
+### Desenvolvedor Backend |
 
 Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC, com forte foco na criação de APIs e arquitetura de software. Tenho um interesse enorme na intersecção entre tecnologia e o mercado financeiro.
 
 * 🔭 **Atualmente trabalhando em:** Projetos práticos de backend, como construção de APIs usando **Spring Boot**, e participando de Hackathons focados em inovação.
-* 🌱 **Estudando no momento:** **Java, Spring Boot, Python, SQL**, além de me aprofundar em certificações financeiras (CPA-20 concluída 🚀).
+* 🌱 **Estudando no momento:** **Java, Spring Boot, Python, SQL**.
 * 💼 **Buscando oportunidades** para atuar como Desenvolvedor e resolver problemas reais com código limpo.
-* ⚡ **Curiosidade:** Nas horas vagas, provavelmente estou acompanhando o mercado de investimentos ou tentando sobreviver construindo jangadas no Stranded Deep.
+  
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -16,6 +16,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC, com forte f
   <img align="center" alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Hibernate" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
