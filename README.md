@@ -27,12 +27,12 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC, com forte f
 
 <p align="left">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucascaldardo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucascaldardo&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&border_color=30363d"
     width="420"
   />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucascaldardo&layout=compact&theme=tokyonight&locale=pt-br"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucascaldardo&layout=compact&locale=pt-br&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&border_color=30363d"
     width="390"
   />
 </p>
@@ -42,5 +42,5 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC, com forte f
 
 ### 📫 Como me encontrar
 
-<a href="https://www.linkedin.com/in/lucas-caldardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:lucascaldardo.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/lucas-caldardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353&color=30363d"></a>
+<a href="mailto:lucascaldardo.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353&color=30363d"></a>
