@@ -26,9 +26,17 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC, com forte f
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascaldardo&show_icons=true&theme=dracula" alt="Estatísticas do Lucas" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaldardo&layout=compact&theme=dracula" alt="Top Linguagens" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucascaldardo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    width="420"
+  />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucascaldardo&layout=compact&theme=tokyonight&locale=pt-br"
+    width="390"
+  />
 </p>
+
 
 <br>
 
