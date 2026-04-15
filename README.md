@@ -5,7 +5,7 @@
 Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC, com forte foco na criação de APIs e arquitetura de software. Tenho um interesse enorme na intersecção entre tecnologia e o mercado financeiro.
 
 * 🔭 **Atualmente trabalhando em:** Projetos práticos de backend, como construção de APIs usando **Spring Boot**, e participando de Hackathons focados em inovação.
-* 🌱 **Estudando no momento:** **Java, Spring Boot, Python, SQL**.
+* 🌱 **Estudando no momento:** **Java, Spring Boot, SQL**.
 * 💼 **Buscando oportunidades** para atuar como Desenvolvedor e resolver problemas reais com código limpo.
 
 ### 🛠️ Tecnologias e Ferramentas
