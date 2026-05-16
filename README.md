@@ -11,7 +11,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC, com forte f
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,postgres,docker,hibernate,git&theme=dark" alt="Tecnologias e Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=java,spring,py,postgres,docker,hibernate,git,linux&theme=dark" alt="Tecnologias e Ferramentas" />
 </p>
 
 <br>
