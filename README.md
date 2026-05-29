@@ -38,3 +38,5 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** na FATEC, com for
   <a href="https://www.linkedin.com/in/lucas-caldardo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:lucascaldardo.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
+https://github.com/user-attachments/assets/91c54253-93e0-4392-b345-e7d7133c2f9e
