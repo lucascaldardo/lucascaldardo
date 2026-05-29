@@ -43,5 +43,5 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** na FATEC, com for
   <video src="
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/f0959083-ebe0-40ab-a995-26abd56dcd9b" width="700" autoplay loop muted playsinline></video>
+  <video src="https://github.com/user-attachments/assets/f36da7fb-d034-420d-ad44-33099d70cf0d" width="700" autoplay loop muted playsinline></video>
 </div>
