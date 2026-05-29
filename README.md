@@ -1,38 +1,3 @@
-<div align="center">
-<pre>
-         DOES ANYONE SEE MY SCREEN _
-
-                      ,ui$$$SL.
-                   ,o$$$$$$$$$$SSL.
-                   j$$$$$$$$$$?IISZIIb
-                   j$$$$$$$$S?iISZSIIIi:
-                   : '$'  4$7iISZSSIIiiI
-                   ,j$ .  j$iiSZSISSIii
-                   ?`$$ j$$S?'`" :ISII?'
-                   :_j$$l`°o],j buIII?',_
-                   ,$I$Sk.`$$7 :ii?"   ?$k:Lu,_
-                    ",_ "_ ,$$S    .i. :  ?$k`4$$:
-                    iiSi$$SS?',   " ? ,'  i$$k:4$i:
-                    s$S]°"` ,u \ .   / ;$7' j$S7-:-
-                       j$&  /?Ik\./  j$L ?$7,Ji:-
-                       4$$L   ??     ,S7' jS7,JSi:-
-                        "7$.  i;     J7 j7?:dSSIi:-
-                         7L   i:-    ?k:SI' jSISII:-
-                         4b   : . .  4.?S SSIi:-
-                     ,'"7IiuJI ?-:.    ?:7 ?Ii:-
-               _,,ji.=: ?iii:.: .      i::,di:-:-
-            ,"j"?i?'     i:"        _.,_ ,rupp:?ZIi.-
-          ,' s' j' L      _,s,.  "4SS$$$$o,?SSk`?Ii:-
-          '  o       /7"j7S.i= SSS$$$$Sk`?S$L`?i.
-            .      ,7','j7   SSSS$$$$Sk:`?$:`.`-
-             \   /'d   d\ `"`  .ji()SSSSZ:i:-
-              \ / ,'-_----, \       °°°°^°=
-                 '_________'
-</pre>
-</div>
-
-<br>
-
 ### 💻 Sobre mim
 
 Sou um estudante de **Análise e Desenvolvimento de Sistemas** na FATEC, com forte foco na criação de APIs e arquitetura de software. Tenho um interesse enorme na intersecção entre tecnologia e o **mercado financeiro**. Trabalho priorizando arquitetura limpa, código organizado e soluções escaláveis.
