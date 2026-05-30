@@ -40,8 +40,7 @@ Participo de Hackathons como ambiente de validação técnica aplicada a problem
 ## $ ls -la ./stack
 
 <div align="center">
-
-```
+<pre>
  .. .   .     ... .  . .    . .  . .        .          ....     .
 .      ..          .             ...             .      .      ..
 .. .                .   .                      .     ...     .   
@@ -79,8 +78,7 @@ Participo de Hackathons como ambiente de validação técnica aplicada a problem
                     .                     .                 .    
 
                             J A V A
-```
-
+</pre>
 </div>
 
 | Camada | Tecnologias |
