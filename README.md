@@ -41,9 +41,13 @@ Participo de Hackathons como ambiente de validação técnica aplicada a problem
 
 ## $ ls ./projects
 
-| [**controle-estoque-relogios**](https://github.com/lucascaldardo/controle-estoque-relogios) | ...
-| [**javaflix**](https://github.com/lucascaldardo/javaflix) | ...
-| [**geladeira-ia**](https://github.com/lucascaldardo/geladeira-geradora-de-receitas-com-ia) | ...
+| Projetos em Destaque | Descrição | Stack |
+
+| [**controle-estoque-relogios**](https://github.com/lucascaldardo/controle-estoque-relogios) | API REST para gerenciamento de estoque com motor de busca filtrada e paginada | Java · Spring Boot · JPA Specifications · PostgreSQL | Filtros dinâmicos avançados · UUID · RFC 7807 |
+
+| [**javaflix**](https://github.com/lucascaldardo/javaflix) | Back-end de plataforma de streaming com autenticação, catálogo de filmes e controle de planos | Java · Spring Boot · JWT · Flyway · Swagger | Auth stateless completa · Documentação interativa |
+
+| [**geladeira-ia**](https://github.com/lucascaldardo/geladeira-geradora-de-receitas-com-ia) | API que analisa ingredientes cadastrados e gera receitas personalizadas via IA generativa | Java · Spring Boot · Gemini API · WebClient | Integração com Google Gemini · Comunicação reativa |
 
 ---
 
