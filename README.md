@@ -132,11 +132,11 @@ String objetivo = "Atuar como desenvolvedor backend em ambientes que demandam ri
 ## $ cat ./certifications.txt
 
 ```
-┌──────────────────────────────────────────────────────┐
-│  CPA-20 · ANBIMA                                     │
-│  Certificação Profissional em Produtos de Investimento│
-│  Abrange: Renda Fixa, Variável, Derivativos e Fundos │
-└──────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────┐
+│  CPA-20 · ANBIMA                                       │
+│  Certificação Profissional em Produtos deInvestimento  │
+│  Abrange: Renda Fixa, Variável, Derivativos e Fundos   │
+└────────────────────────────────────────────────────────┘
 ```
 
 > Certificação que demonstra domínio técnico sobre o mercado financeiro brasileiro — relevante para projetos na intersecção entre tecnologia e finanças.
