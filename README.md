@@ -78,7 +78,7 @@ Participo de Hackathons como ambiente de validação técnica aplicada a problem
       .                          .             .                 
                     .                     .                 .    
 
-                                  J A V A
+                            J A V A
 ```
 
 </div>
