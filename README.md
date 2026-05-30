@@ -37,6 +37,16 @@ Participo de Hackathons como ambiente de validação técnica aplicada a problem
 
 ---
 
+---
+
+## $ ls ./projects
+
+| [**controle-estoque-relogios**](https://github.com/lucascaldardo/controle-estoque-relogios) | ...
+| [**javaflix**](https://github.com/lucascaldardo/javaflix) | ...
+| [**geladeira-ia**](https://github.com/lucascaldardo/geladeira-geradora-de-receitas-com-ia) | ...
+
+---
+
 ## $ ls -la ./stack
 
 <div align="center">
