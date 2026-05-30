@@ -15,39 +15,54 @@
 
 **`CALDARDO`** · Backend Engineer · ADS @ FATEC
 
-*Construindo no escuro. Entregando em produção.*
-
 </div>
 
 ---
 
 ```
-SISTEMAS > interfaces
-ARQUITETURA > gambiarra
-ESCALABILIDADE > urgência
+SYSTEMS   >  interfaces
+ARCHITECTURE  >  workarounds
+SCALABILITY   >  urgency
 ```
 
 ---
 
 ## $ whoami
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC.  
-Vivo no backend — onde o produto de verdade acontece.
+Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC, com foco em desenvolvimento backend e arquitetura de software. Meu trabalho é orientado a APIs robustas, código limpo e soluções escaláveis.
 
-Construo APIs que aguentam pancada, com arquitetura limpa e código que não precisa de comentário pra ser entendido. Tenho interesse real na intersecção entre **tecnologia e mercado financeiro** — não só o que o mercado faz, mas o que pode ser automatizado, otimizado e escalado dentro dele.
+Possuo interesse técnico e acadêmico na intersecção entre **engenharia de software e mercado financeiro** — área para a qual também me qualifiquei formalmente através da certificação **CPA-20 (ANBIMA)**.
 
-Participo de Hackathons porque resolver problema de verdade em tempo limitado revela o que você realmente sabe.
+Participo de Hackathons como ambiente de validação técnica aplicada a problemas reais.
 
 ---
 
 ## $ ls -la ./stack
 
-| Camada | Ferramentas |
+<div align="center">
+
+```
+        ( (   ) )
+         ) ) ( (
+        ( (   ) )
+       .----------.
+       |          |--.
+       |          |   |
+       |          |   |
+       |          |--'
+       '----------'
+
+         J A V A
+```
+
+</div>
+
+| Camada | Tecnologias |
 |---|---|
 | **Core** | Java · Spring Boot · Hibernate |
 | **Dados** | PostgreSQL · SQL |
-| **Infra** | Docker · Linux |
-| **Suporte** | Python · Git |
+| **Infraestrutura** | Docker · Linux |
+| **Complementar** | Python · Git |
 
 <p>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -65,16 +80,30 @@ Participo de Hackathons porque resolver problema de verdade em tempo limitado re
 ## $ cat ./focus.txt
 
 ```java
-// O que estou aprimorando agora
+// Foco atual
 String[] currentFocus = {
     "Arquitetura de APIs REST com Spring Boot",
     "Design Patterns aplicados ao backend",
-    "SQL avançado e modelagem de dados",
-    "Boas práticas: Clean Code, SOLID, DRY"
+    "SQL avançado e modelagem relacional",
+    "Clean Code · SOLID · DRY"
 };
 
-String objetivo = "Código que resolve problema real, escala com o negócio e não vira dívida técnica.";
+String objetivo = "Atuar como desenvolvedor backend em ambientes que demandam rigor técnico e soluções escaláveis.";
 ```
+
+---
+
+## $ cat ./certifications.txt
+
+```
+┌──────────────────────────────────────────────────────┐
+│  CPA-20 · ANBIMA                                     │
+│  Certificação Profissional em Produtos de Investimento│
+│  Abrange: Renda Fixa, Variável, Derivativos e Fundos │
+└──────────────────────────────────────────────────────┘
+```
+
+> Certificação que demonstra domínio técnico sobre o mercado financeiro brasileiro — relevante para projetos na intersecção entre tecnologia e finanças.
 
 ---
 
@@ -105,6 +134,6 @@ String objetivo = "Código que resolve problema real, escala com o negócio e n�
 
 <div align="center">
 
-`backend isn't the background — it's the foundation`
+`backend is the foundation, not the background`
 
 </div>
