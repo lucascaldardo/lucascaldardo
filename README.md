@@ -31,7 +31,7 @@ SCALABILITY   >  urgency
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC, com foco em desenvolvimento backend e arquitetura de software. Meu trabalho é orientado a APIs robustas, código limpo e soluções escaláveis.
 
-Possuo interesse técnico e acadêmico na intersecção entre **engenharia de software e mercado financeiro** — área para a qual também me qualifiquei formalmente através da certificação **CPA-20 (ANBIMA)**.
+Possuo interesse técnico e acadêmico na intersecção entre **engenharia de software e mercado financeiro** área para a qual também me qualifiquei formalmente através da certificação **CPA-20 (ANBIMA)**.
 
 Participo de Hackathons como ambiente de validação técnica aplicada a problemas reais.
 
@@ -139,7 +139,7 @@ String objetivo = "Atuar como desenvolvedor backend em ambientes que demandam ri
 └────────────────────────────────────────────────────────┘
 ```
 
-> Certificação que demonstra domínio técnico sobre o mercado financeiro brasileiro — relevante para projetos na intersecção entre tecnologia e finanças.
+> Certificação que demonstra domínio técnico sobre o mercado financeiro brasileiro relevante para projetos na intersecção entre tecnologia e finanças.
 
 ---
 
