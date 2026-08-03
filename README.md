@@ -37,17 +37,13 @@ Participo de Hackathons como ambiente de validação técnica aplicada a problem
 
 ---
 
----
-
 ## $ ls ./projects
 
-| Projetos em Destaque | Descrição | Stack |
-
-| [**controle-estoque-relogios**](https://github.com/lucascaldardo/controle-estoque-relogios) | API REST para gerenciamento de estoque com motor de busca filtrada e paginada | Java · Spring Boot · JPA Specifications · PostgreSQL | Filtros dinâmicos avançados · UUID · RFC 7807 |
-
-| [**javaflix**](https://github.com/lucascaldardo/javaflix) | Back-end de plataforma de streaming com autenticação, catálogo de filmes e controle de planos | Java · Spring Boot · JWT · Flyway · Swagger | Auth stateless completa · Documentação interativa |
-
-| [**geladeira-ia**](https://github.com/lucascaldardo/geladeira-geradora-de-receitas-com-ia) | API que analisa ingredientes cadastrados e gera receitas personalizadas via IA generativa | Java · Spring Boot · Gemini API · WebClient | Integração com Google Gemini · Comunicação reativa |
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**eventos**](https://github.com/lucascaldardo/eventos) | API de cadastro de eventos com Clean Architecture, separando domínio, casos de uso e infraestrutura | Java 17 · Spring Boot · Clean Architecture · JPA · Flyway · PostgreSQL |
+| [**javaflix**](https://github.com/lucascaldardo/javaflix) | Back-end de plataforma de streaming com autenticação, catálogo de filmes e controle de planos | Java · Spring Boot · JWT · Flyway · Swagger |
+| [**geladeira-ia**](https://github.com/lucascaldardo/geladeira-geradora-de-receitas-com-ia) | API que analisa ingredientes cadastrados e gera receitas personalizadas via IA generativa | Java · Spring Boot · Gemini API · WebClient |
 
 ---
 
@@ -97,7 +93,7 @@ Participo de Hackathons como ambiente de validação técnica aplicada a problem
 |---|---|
 | **Core** | Java · Spring Boot · Hibernate |
 | **Dados** | PostgreSQL · SQL |
-| **Infraestrutura** | Docker · Linux |
+| **Infraestrutura** | Docker · AWS · Linux |
 | **Complementar** | Python · Git |
 
 <p>
@@ -105,6 +101,7 @@ Participo de Hackathons como ambiente de validação técnica aplicada a problem
   <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
