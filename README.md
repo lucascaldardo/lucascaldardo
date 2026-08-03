@@ -93,6 +93,7 @@ Participo de Hackathons como ambiente de validação técnica aplicada a problem
 |---|---|
 | **Core** | Java · Spring Boot · Hibernate |
 | **Dados** | PostgreSQL · SQL |
+| **Mensageria** | RabbitMQ · Kafka |
 | **Infraestrutura** | Docker · AWS · Linux |
 | **Complementar** | Python · Git |
 
@@ -101,6 +102,8 @@ Participo de Hackathons como ambiente de validação técnica aplicada a problem
   <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-000000?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
