@@ -143,19 +143,15 @@ String objetivo = "Atuar como desenvolvedor backend em ambientes que demandam ri
 
 ---
 
+<!-- 
 ## $ git log --oneline
 
----
-
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=lucascaldardo&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=222222&hide_title=true" height="145" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucascaldardo&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=222222&hide_title=true" height="145" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaldardo&layout=compact&locale=pt-br&bg_color=000000&title_color=ffffff&text_color=888888&border_color=222222" height="145" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascaldardo&layout=compact&locale=pt-br&bg_color=000000&title_color=ffffff&text_color=888888&border_color=222222" height="145" />
 </div>
-
----
+-->
 
 ## $ ping lucascaldardo
 
